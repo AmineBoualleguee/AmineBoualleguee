@@ -13,7 +13,7 @@
 ### About Me
 
 - Currently working on web apps and management systems
-- Focused on TypeScript and C#
+- Focused on TypeScript ,Java and C#
 - Always picking up new tools along the way
 - Reach me via GitHub or LinkedIn below
 
@@ -23,26 +23,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AmineBoualleguee&show_icons=true&hide_border=true&bg_color=F4F1EA&title_color=D97757&icon_color=D97757&text_color=1F1B16&border_color=C2B8A3" alt="GitHub Stats" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBoualleguee&hide_border=true&background=F4F1EA&ring=D97757&fire=D97757&currStreakLabel=1F1B16&sideLabels=1F1B16&sideNums=1F1B16&dates=C2B8A3" alt="GitHub Streak" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBoualleguee&layout=compact&hide_border=true&bg_color=F4F1EA&title_color=D97757&text_color=1F1B16&border_color=C2B8A3" alt="Top Languages" width="48%"/>
+
 
 </div>
 
 ---
 
-### Featured Projects
 
-| | |
-|---|---|
-| **[MyPortfolioAmine](https://github.com/AmineBoualleguee/MyPortfolioAmine)** | Personal portfolio, built with TypeScript |
-| **[HR-Management-System](https://github.com/AmineBoualleguee/HR-Management-System)** | HR management system, built with C# |
-| **[Gestiond-entreprise](https://github.com/AmineBoualleguee/Gestiond-entreprise)** | Business/enterprise management tool |
-
-<sub>These are source repos, not live demos — clone and run them locally to try them out.</sub>
-
----
 
 ### Contribution Graph
 
