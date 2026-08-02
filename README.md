@@ -27,9 +27,29 @@ amine@github ~ $ cat about.txt
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AmineBoualleguee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBoualleguee&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmineBoualleguee&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/AmineBoualleguee/MyPortfolioAmine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmineBoualleguee&repo=MyPortfolioAmine&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+<a href="https://github.com/AmineBoualleguee/HR-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmineBoualleguee&repo=HR-Management-System&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+
+<a href="https://github.com/AmineBoualleguee/Gestiond-entreprise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmineBoualleguee&repo=Gestiond-entreprise&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
+<a href="https://github.com/AmineBoualleguee/AmineBoualleguee">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmineBoualleguee&repo=AmineBoualleguee&theme=tokyonight&hide_border=true" width="48%"/>
+</a>
 
 </div>
 
@@ -48,6 +68,7 @@ amine@github ~ $ cat about.txt
 <div align="center">
 
 <a href="https://github.com/AmineBoualleguee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amine-bouallegue-753169181/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
