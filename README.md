@@ -6,6 +6,7 @@
 </div>
 ---
 ### About Me
+
 - Currently working on web apps and management systems
 - Focused on TypeScript, Java and C#
 - Always picking up new tools along the way
