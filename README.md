@@ -1,22 +1,15 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:C2B8A3&height=200&section=header&text=Amine%20Boualleguee&fontSize=42&fontColor=1F1B16&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=55&descSize=18&descColor=1F1B16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:C2B8A3&height=200&section=header&text=Amine%20Boualleguee&fontSize=42&fontColor=1F1B16&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=55&descSize=18&descColor=1F1B16" width="100%"/>
 <a href="https://github.com/AmineBoualleguee">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=amine%40github+%7E+%24+whoami;Software+Developer;Building+practical+tools+with+code;amine%40github+%7E+%24+_" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=amine%40github+%7E+%24+whoami;Software+Engineer;Building+practical+tools+with+code;amine%40github+%7E+%24+_" alt="Typing SVG" />
 </a>
-
 </div>
-
 ---
-
 ### About Me
-
 - Currently working on web apps and management systems
-- Focused on TypeScript ,Java and C#
+- Focused on TypeScript, Java and C#
 - Always picking up new tools along the way
 - Reach me via GitHub or LinkedIn below
-
 ---
 
 ### GitHub Stats
