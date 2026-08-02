@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D97757,100:C2B8A3&height=100&section=header&text=Amine%20Boualleguee&fontSize=34&fontColor=1F1B16&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:C2B8A3&height=140&section=header&text=Amine%20Boualleguee&fontSize=34&fontColor=1F1B16&fontAlignY=42&animation=fadeIn"/>
 
 <sub>Software developer</sub>
 
