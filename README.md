@@ -15,12 +15,7 @@
 
 ---
 
-### GitHub Stats
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBoualleguee&hide_border=true&background=F4F1EA&ring=D97757&fire=D97757&currStreakLabel=1F1B16&sideLabels=1F1B16&sideNums=1F1B16&dates=C2B8A3" alt="GitHub Streak" width="48%"/>
-</div>
 
----
 
 ### Contribution Graph
 <div align="center">
