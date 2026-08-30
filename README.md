@@ -61,15 +61,7 @@ Software Engineer based in **Sousse, Tunisia**, specializing in **Full-Stack Jav
 | **[Multi-Agent Research Assistant](https://github.com/AmineBoualleguee/multi-agent-research-assistant)** | AI Agents | LangGraph • Ollama • FastAPI • Streamlit |
 | **[Data Analytics AI Workbench](https://github.com/AmineBoualleguee/data-analytics-ai-workbench)** | Conversational Analytics | FastAPI • LLM • Pandas • Plotly |
 
----
 
-
-
-### Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmineBoualleguee&bg_color=F4F1EA&color=1F1B16&line=D97757&point=1F1B16&area_color=D97757&title_color=D97757&hide_border=true" alt="Activity Graph" width="90%"/>
-</div>
 
 ---
 
