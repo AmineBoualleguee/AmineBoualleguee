@@ -10,7 +10,7 @@
 
 ### About Me
 
-Software Engineer based in **Sousse, Tunisia**, specializing in **Full-Stack Java** applications, **Cloud-Native / DevOps** architectures, and **Generative AI** solutions.
+Software Engineer, specializing in **Full-Stack Java** applications, **Cloud-Native / DevOps** architectures, and **Generative AI** solutions.
 
 - Building enterprise web applications with **Spring Boot + Angular**
 - Designing microservices, CI/CD pipelines, and Kubernetes deployments
@@ -23,29 +23,29 @@ Software Engineer based in **Sousse, Tunisia**, specializing in **Full-Stack Jav
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-1F1B16?style=for-the-badge&logo=openjdk&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Python-1F1B16?style=for-the-badge&logo=python&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/TypeScript-1F1B16?style=for-the-badge&logo=typescript&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/C%23-1F1B16?style=for-the-badge&logo=csharp&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/SQL-1F1B16?style=for-the-badge&logo=postgresql&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
   <!-- Backend & Frontend -->
-  <img src="https://img.shields.io/badge/Spring%20Boot-1F1B16?style=for-the-badge&logo=springboot&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Angular-1F1B16?style=for-the-badge&logo=angular&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/FastAPI-1F1B16?style=for-the-badge&logo=fastapi&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/React-1F1B16?style=for-the-badge&logo=react&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1F1B16?style=for-the-badge&logo=postgresql&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center">
   <!-- DevOps & AI -->
-  <img src="https://img.shields.io/badge/Docker-1F1B16?style=for-the-badge&logo=docker&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Kubernetes-1F1B16?style=for-the-badge&logo=kubernetes&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1F1B16?style=for-the-badge&logo=githubactions&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/LLM%20%26%20AI%20Agents-1F1B16?style=for-the-badge&logo=openai&logoColor=D97757" />
-  <img src="https://img.shields.io/badge/Azure-1F1B16?style=for-the-badge&logo=microsoftazure&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20%26%20AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
@@ -61,8 +61,6 @@ Software Engineer based in **Sousse, Tunisia**, specializing in **Full-Stack Jav
 | **[Multi-Agent Research Assistant](https://github.com/AmineBoualleguee/multi-agent-research-assistant)** | AI Agents | LangGraph • Ollama • FastAPI • Streamlit |
 | **[Data Analytics AI Workbench](https://github.com/AmineBoualleguee/data-analytics-ai-workbench)** | Conversational Analytics | FastAPI • LLM • Pandas • Plotly |
 
-
-
 ---
 
 ### Connect With Me
@@ -72,10 +70,10 @@ Software Engineer based in **Sousse, Tunisia**, specializing in **Full-Stack Jav
     <img src="https://img.shields.io/badge/GitHub-1F1B16?style=for-the-badge&logo=github&logoColor=F4F1EA"/>
   </a>
   <a href="https://www.linkedin.com/in/amine-bouallegue-753169181/">
-    <img src="https://img.shields.io/badge/LinkedIn-D97757?style=for-the-badge&logo=linkedin&logoColor=F4F1EA"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:amin.bouallegue2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-C2B8A3?style=for-the-badge&logo=gmail&logoColor=1F1B16"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
